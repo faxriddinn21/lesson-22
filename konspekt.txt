@@ -1,0 +1,27 @@
+    		BOOTSTRAP konspect!
+ . Bootstrapning ustunliklari
+   A. Responsivlik va mobil qurilmalar bilan uyum
+      1. Grid tizimi va responsive dizayn
+      2. Mobil qurilmalar uchun optimallashtirilgan komponentlar
+
+   B. Qulay va oson komponentlar
+      1. Buttonlar, menu va navigatsiya komponentlari
+      2. Formalar va kiritish maydonchalari
+      3. Karta va panel komponentlari
+
+   C. Yorqin uslub va dizayn
+      1. Material Design uslubi va komponentlari
+      2. Temalar va stillar
+
+   D. JavaScript komponentlar va plaginlar
+      1. Carousel, modal oynasi, accordion, va boshqa interaktiv komponentlar
+      2. Popover, tooltip, va boshqa plaginlar
+
+III. Bootstrapning abzalliklari
+    A. Oson va tez ishlab chiqarish imkoniyatlari
+       1. Bootstrap CSS va JS fayllarini ulash va qo'shish
+       2. Bootstrapning CDN (Content Delivery Network) orqali ulanish
+
+    B. Modul tizimi va nesting
+       1. Bootstrapning komponentlari va qo'shimcha CSS klasslari
+       2. Nesting va komponentlarning tarkibi.

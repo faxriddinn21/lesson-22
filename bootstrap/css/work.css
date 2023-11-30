@@ -1,0 +1,59 @@
+.hero-color{
+    width: 100%;
+    height: 416px;
+    flex-shrink: 0;
+    background: #F4F6FC;
+}
+
+.list{
+    display: flex;
+    list-style: none;
+    gap: 32px;
+    margin-top: 96px;
+    margin-left: 450px;
+}
+
+a{
+    text-decoration: none;
+}
+.foto-card{
+    width: 623px;
+    height: 380px;
+    padding: 30px 39px 33px 39px;
+    background: linear-gradient(131deg, #F4EDE1 16.74%, #98B1C6 103.17%);
+}
+
+.foto-card-1{
+    width: 623px;
+    height: 380px;
+    padding: 30px 39px 33px 39px;
+    background: linear-gradient(131deg, #FFD3AF 16.74%, #4F56FF 103.17%);   
+}
+
+.foto-card-2{
+    width: 623px;
+    height: 380px;
+    padding: 30px 39px 33px 39px;
+    background: linear-gradient(131deg, #EEBCA7 16.74%, #C8C8C8 103.17%); 
+}
+
+.foto-card-3{
+    width: 623px;
+    height: 380px;
+    padding: 30px 39px 33px 39px;
+    background: linear-gradient(131deg, #C2E7F2 16.74%, #98A4FF 103.17%);
+}
+
+.foto-card-4{
+    width: 623px;
+    height: 380px;
+    padding: 30px 39px 33px 39px;
+    background: linear-gradient(131deg, #C5BCFF 16.74%, #9BF6D5 103.17%);
+}
+
+.foto-card-5{
+    width: 623px;
+    height: 380px;
+    padding: 30px 39px 33px 39px;
+    background: linear-gradient(131deg, #D2D6FD 16.74%, #D6ACEA 103.17%);
+}

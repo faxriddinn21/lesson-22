@@ -1,0 +1,63 @@
+.container {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.btn-size{
+  border-radius: 41px;
+}
+
+/* .box{
+  margin-top: 160px; 
+} */
+
+.bgcolor{
+  width: 100%;
+  height: 760px;
+  flex-shrink: 0;
+  background: #1C1E53;
+}
+
+.color{
+  color: #fff;
+}
+
+.btn-link{
+  margin-left: 40px;
+}
+
+.hero{
+  margin-top: 170px;
+}
+.heros{
+  margin-top: 100px;
+}
+.more{
+  margin-top: 57px;
+}
+/* .cardo{
+  width: 396px;
+  height: 600px;
+  flex-shrink: 0;
+  background: linear-gradient(329deg, #1C1E53 -10.96%, rgba(28, 30, 83, 0.42) 103.96%);
+
+} */
+.card-top{
+  margin-top: 64px;
+}
+
+.bg-section{
+  width: 100%;
+  height: 900px;
+  flex-shrink: 0;
+  background:#F4F6FC;
+}
+
+.text-top{
+  margin-top: 128px;
+}
+.icon{
+  margin-top: 48px;
+  margin-left: 48px;
+}
+
